@@ -32,6 +32,7 @@ Internals_Basics/
     │   ├── step3_s4.json              # Task 3 output
     │   └── step4_s6.json              # Task 4 output
     ├── requirements.txt
+    ├── README.md
     └── .gitignore
 ```
 
