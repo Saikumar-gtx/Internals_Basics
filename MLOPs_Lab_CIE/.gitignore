@@ -1,0 +1,42 @@
+# ───────── Python ─────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*.so
+
+# ───────── Virtual Environment ─────────
+.venv/
+venv/
+env/
+
+# ───────── MLflow ─────────
+mlruns/
+mlflow.db
+
+# ───────── Models ─────────
+models/*.pkl
+
+# ───────── System Files ─────────
+.DS_Store
+Thumbs.db
+
+# ───────── IDE / Editor ─────────
+.vscode/
+.idea/
+
+# ───────── Logs ─────────
+*.log
+
+# ───────── Temporary Files ─────────
+*.tmp
+*.temp
+
+# ───────── Keep Results (IMPORTANT FOR MARKS) ─────────
+!results/
+!results/*.json
+
+# ───────── Keep Dataset (REQUIRED) ─────────
+!data/
+!data/training_data.csv

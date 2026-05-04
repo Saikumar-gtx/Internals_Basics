@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/saiku/Desktop/Internals_Basics/mlruns/300705846177922563/45ade80669494815a2097883d9d72caf/artifacts
+end_time: 1777867346209
+entry_point_name: ''
+experiment_id: '300705846177922563'
+lifecycle_stage: active
+run_id: 45ade80669494815a2097883d9d72caf
+run_name: tuning-pipewatch
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777867331946
+status: 3
+tags: []
+user_id: saiku

@@ -1,0 +1,7 @@
+{
+  "registered_model_name": "pipewatch-corrosion-risk-score-predictor",
+  "version": 1,
+  "run_id": "45ade80669494815a2097883d9d72caf",
+  "source_metric": "rmse",
+  "source_metric_value": 9.193681
+}

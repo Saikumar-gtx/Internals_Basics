@@ -1,0 +1,18 @@
+{
+  "experiment_name": "pipewatch-corrosion-risk-score",
+  "models": [
+    {
+      "name": "Ridge",
+      "mae": 7.245093,
+      "rmse": 9.193681
+    },
+    {
+      "name": "GradientBoosting",
+      "mae": 8.711279,
+      "rmse": 10.435461
+    }
+  ],
+  "best_model": "Ridge",
+  "best_metric_name": "rmse",
+  "best_metric_value": 9.193681
+}

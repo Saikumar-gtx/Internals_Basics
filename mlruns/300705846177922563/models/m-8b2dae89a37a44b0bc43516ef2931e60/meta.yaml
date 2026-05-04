@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/saiku/Desktop/Internals_Basics/mlruns/300705846177922563/models/m-8b2dae89a37a44b0bc43516ef2931e60/artifacts
+creation_timestamp: 1777867201077
+experiment_id: '300705846177922563'
+last_updated_timestamp: 1777867206161
+model_id: m-8b2dae89a37a44b0bc43516ef2931e60
+model_type: null
+name: model
+source_run_id: 7ceb344f233245d29cb5e8a21b8b4ec6
+status: 2
+status_message: null

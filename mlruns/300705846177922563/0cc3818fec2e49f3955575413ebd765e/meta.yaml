@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/saiku/Desktop/Internals_Basics/mlruns/300705846177922563/0cc3818fec2e49f3955575413ebd765e/artifacts
+end_time: 1777867339237
+entry_point_name: ''
+experiment_id: '300705846177922563'
+lifecycle_stage: active
+run_id: 0cc3818fec2e49f3955575413ebd765e
+run_name: trial-12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777867339161
+status: 3
+tags: []
+user_id: saiku

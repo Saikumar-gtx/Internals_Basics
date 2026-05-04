@@ -1,0 +1,16 @@
+{
+  "health_endpoint": "/status",
+  "predict_endpoint": "/forecast",
+  "port": 8888,
+  "health_response": {
+    "status": "operational",
+    "service": "PipeWatch API"
+  },
+  "test_input": {
+    "pipe_age_years": 20,
+    "flow_rate_lph": 2004.1,
+    "moisture_pct": 62.7,
+    "wall_thickness_mm": 6.1
+  },
+  "prediction": 38.553773
+}
